@@ -1,0 +1,31 @@
+= What does this application do?
+This is a Java implementation for Tree Traversal Algorithms like BFS, DFS & UCS as a learning exercise.
+
+== What is the problem statement?
+The *8 puzzle* consists of eight numbered, movable tiles set in a _3x3 frame_.
+One cell of the frame is always empty thus making it possible to move an adjacent numbered tile into the empty cell.
+Start with a random state (cannot be fixed). The goal state is listed below.
+
+1 2 3 +
+8 0 4 +
+7 6 5
+
+The program is to change the initial configuration into the goal configuration.
+A solution to the problem is an appropriate sequence of moves.
+Implement Breadth-First Search (BFS), Depth-First Search (DFS), and Uniform-Cost Search (UCS) to solve this problem.
+
+
+=== Technical Details
+- Python Documentation: link:https://www.python.org/[Python]
+- Version control: git
+- IDE: Pycharm (Pure Python Project with venv)
+
+
+
+
+== Developer Guide to run the code locally
+==== `git clone https://github.com/kalyansagi/search-techniques.git`
+
+==== `cd /search-techniques`
+
+==== `git checkout master`
