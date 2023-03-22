@@ -1,5 +1,5 @@
 = What does this application do?
-This is a Java implementation for Tree Traversal Algorithms like BFS, DFS & UCS as a learning exercise.
+This is a Python implementation for Tree Traversal Algorithms like BFS, DFS & UCS as a learning exercise.
 
 == What is the problem statement?
 The *8 puzzle* consists of eight numbered, movable tiles set in a _3x3 frame_.
